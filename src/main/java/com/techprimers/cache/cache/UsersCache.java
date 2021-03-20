@@ -14,7 +14,7 @@ public class UsersCache {
 
     @Cacheable(value = "usersCache", key = "#name")
     public Users getUser(String name) {
-        System.out.println("Retrieving from Database for name " + name);
+        System.out.println("Retrieving from Database for name inr" + name);
         return usersRepository.findByName(name);
     }
 }
