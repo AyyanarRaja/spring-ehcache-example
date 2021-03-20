@@ -1,0 +1,7 @@
+com\techprimers\cache\loader\Loader.class
+com\techprimers\cache\config\EhCacheConfiguration.class
+com\techprimers\cache\model\Users.class
+com\techprimers\cache\SpringEhcacheExampleApplication.class
+com\techprimers\cache\cache\UsersCache.class
+com\techprimers\cache\repository\UsersRepository.class
+com\techprimers\cache\resource\UsersResource.class
